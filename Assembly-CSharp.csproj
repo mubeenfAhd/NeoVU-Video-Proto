@@ -118,6 +118,7 @@
     <Compile Include="Assets\ProductFiles\Scripts\VideoDetail.cs" />
     <Compile Include="Assets\ProductFiles\Scripts\VideoManager.cs" />
     <Compile Include="Assets\ProductFiles\Scripts\VideoSceneManager.cs" />
+    <Compile Include="Assets\SeekBarControl.cs" />
     <None Include="Assets\Photon\PhotonLibs\netstandard2.0\Photon3Unity3D.xml" />
     <None Include="Assets\Photon\PhotonUnityNetworking\changelog.txt" />
     <None Include="Assets\Photon\PhotonVoice\changes-voice.txt" />

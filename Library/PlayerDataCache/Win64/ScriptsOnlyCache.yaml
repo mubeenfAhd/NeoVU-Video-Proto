@@ -11,6 +11,7 @@ ScriptsOnlyBuild:
     - PointersController
     - ProximityVoiceTrigger
     - RoomList
+    - SeekBarControl
     - SignInManager
     - UserList
     - VideoManager
@@ -103,11 +104,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12890}
     - Class: 114
-      Script: {instanceID: 13462}
+      Script: {instanceID: 13334}
     - Class: 114
-      Script: {instanceID: 13862}
+      Script: {instanceID: 13464}
     - Class: 114
-      Script: {instanceID: 13958}
+      Script: {instanceID: 13864}
+    - Class: 114
+      Script: {instanceID: 13960}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -246,23 +249,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13302}
     - Class: 114
-      Script: {instanceID: 13436}
+      Script: {instanceID: 13438}
     - Class: 114
-      Script: {instanceID: 13462}
+      Script: {instanceID: 13464}
     - Class: 114
-      Script: {instanceID: 13510}
+      Script: {instanceID: 13512}
     - Class: 114
-      Script: {instanceID: 13534}
+      Script: {instanceID: 13536}
     - Class: 114
-      Script: {instanceID: 13714}
+      Script: {instanceID: 13716}
     - Class: 114
-      Script: {instanceID: 13846}
+      Script: {instanceID: 13848}
     - Class: 114
-      Script: {instanceID: 13862}
+      Script: {instanceID: 13864}
     - Class: 114
-      Script: {instanceID: 13958}
+      Script: {instanceID: 13960}
     - Class: 114
-      Script: {instanceID: 13992}
+      Script: {instanceID: 13994}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -958,7 +961,7 @@ ScriptsOnlyBuild:
     className: AxisTouchButton
   - hash:
       serializedVersion: 2
-      Hash: eee266df49617c079f30fda21ff8577f
+      Hash: 24caf63d56f486fb326c37d429eafc0e
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: VideoManager
@@ -1430,6 +1433,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Asteroids
     className: Asteroid
+  - hash:
+      serializedVersion: 2
+      Hash: 64690e07862f9a4bd0758a84c7b6c8b2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SeekBarControl
   - hash:
       serializedVersion: 2
       Hash: 7829e932aec962afd9bcfad28ffff27d

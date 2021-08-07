@@ -42,6 +42,10 @@ MonoBehaviour:
   - CantHearYou
   - ChangeColour
   - HeresWhy
+  - ChangeVideoState
+  - ChangeSeekPosition
+  - SeekBarPositionChanged
+  - FrameChanged
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1
